@@ -1,4 +1,6 @@
 const bankAccountFactory = () => {
+  const myAccount = [];
+  const accountManager = 
 
 };
 

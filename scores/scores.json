@@ -21,7 +21,7 @@
       "HaMa/BeToTe11": 0,
       "HaMa/BeToTe12": 0,
       "HaMa/BeToTe13": 0,
-      "HaMa/BeToTe14": 0,
+      "HaMa/BeToTe14": 1,
       "HaMa/BeToTe15": 0
     },
     "Inheritance & Polymorphism Tests": {
@@ -118,8 +118,8 @@
   },
   "humanReadable": {
     "Factory Function Tests": "0/5",
-    "finalTestScore": "FINAL SCORE: 0/35",
-    "Has Many / Belongs To Tests": "0/15",
+    "finalTestScore": "FINAL SCORE: 1/35",
+    "Has Many / Belongs To Tests": "1/15",
     "Inheritance & Polymorphism Tests": "0/15"
   }
 }
